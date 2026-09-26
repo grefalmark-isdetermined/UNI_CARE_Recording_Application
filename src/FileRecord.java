@@ -1,2 +1,4 @@
-public class FileRecord {
+public interface FileRecord {
+
+    String toFileString();
 }
